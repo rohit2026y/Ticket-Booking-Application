@@ -14,7 +14,6 @@ A full-stack ticket booking platform built with Modern Tech Stack.
 -   Event Listing & Details
 -   Seat Booking with Concurrency Handling (Redis Locks)
 -   Booking Confirmations (Email Simulation)
--   Booking Confirmations (Email Simulation)
 -   Admin Dashboard (Booking Reports)
 -   **Enhanced UI/UX**:
     -   High-contrast, readable text
